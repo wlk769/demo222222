@@ -4,8 +4,8 @@ class TestLogin:
     def test_02(self):
         assert 0
     def test_03(self):
-        assert 0
+        assert 1
     def test_04(self):
-        assert 0
+        assert 1
     def test_05(self):
-        assert 0
+        assert 1
